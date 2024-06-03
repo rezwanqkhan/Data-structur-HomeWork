@@ -1,7 +1,7 @@
 package DataStructurHW1;
 // PROBLEM 2: sorting randome array by using stack
     //NAME & LASTNAME: REZWANULLAH QURAISHI
-    // STUDENT NO: 200316057
+    // STUDENT NO: 
 public class StackProblem2 {
    
     public static void main(String[] args){

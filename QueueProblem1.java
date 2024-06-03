@@ -2,7 +2,7 @@ package DataStructurHW1;
 
 // PROBLEM 2: sorting randome arry by using stack
     //NAME & LASTNAME: REZWANULLAH QURAISHI
-    // STUDENT NO: 200316057
+    // STUDENT NO: 
 public class QueueProblem1 {
    
    // this method will calculate and retun the time for tooken by each bilet 

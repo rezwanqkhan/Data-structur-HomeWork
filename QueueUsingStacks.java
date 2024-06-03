@@ -2,7 +2,7 @@ package DataStructurHW1;
 import java.util.Stack;
 // PROBLEM 3 BONUS
  // NAME & LASTNAME: REZWANULLAH QURAISHI
-    // STUDENT NO: 200316057
+    // STUDENT NO: 
 public class QueueUsingStacks {
     // for using stacks to make queue we have to create two sprate stack one for taking
     // and other for removing or returning the tooken items 
